@@ -147,4 +147,3 @@ _TODO: Concatenate the two data payload below and don't forget to replace the 0 
 	u'imo_num': 0L
 	}`
 
-![alt text](https://raw.githubusercontent.com/McOrts/AIS-ship-tracking-receiver/master/images/AIS-ship-tracking-receiver_Antenna.jpg)
